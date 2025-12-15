@@ -1,1 +1,2 @@
 This is my first lesson with git
+This is meant for the DE.
