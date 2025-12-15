@@ -1,2 +1,3 @@
 This is my first lesson with git
-This is meant for everybody
+This is meant for the DE.
+This file should not be touched
